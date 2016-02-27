@@ -1,0 +1,61 @@
+body {
+	background-color:white;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-header h1 {
+    font-family: 'Lora', serif;
+    color: #557c3e;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand p {
+    /* Kosher cert */
+    color: #000;
+    text-transform: uppercase;
+    font-size: .7em;
+    margin-top: 15px;
+}
+
+.navbar-brand p span {
+    /* Star-K */
+    vertical-align: middle;
+}
+
+#collapsable-nav_ {
+	background-color: #ffff55;
+}
+
+#collapsable-nav li {
+	background-color: yellow;
+	text-align: center;
+}
+
+.header {
+	text-align: center;
+	background-color: yellow;
+	font-size: 2em;
+}
+
+.lorem {
+	background-color: #f5f5f5;
+}
